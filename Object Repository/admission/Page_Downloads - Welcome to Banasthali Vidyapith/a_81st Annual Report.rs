@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_81st Annual Report</name>
+   <tag></tag>
+   <elementGuidId>930e2ee6-a59c-40d7-ab9d-85600d277b25</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='newcontent']/div[2]/table/tbody/tr[2]/td/ul/li/ul[2]/li/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li > ul:nth-of-type(2) > li > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;81st Annual Report&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c6989e97-8558-4584-bbb4-e3b89631d18e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://drive.google.com/open?id=0B-aEhW6UnW8KMXFPTGVsQ3RHWVU</value>
+      <webElementGuid>96dd6a97-313a-43f2-88e5-1010a93bd462</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>53ce0bfd-8a86-4ba9-8b6f-e05fd78b0ad5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>81st Annual Report</value>
+      <webElementGuid>90055384-ab92-46f0-b240-d6bad38f9651</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;newcontent&quot;)/div[@class=&quot;conM&quot;]/table[1]/tbody[1]/tr[2]/td[1]/ul[1]/li[1]/ul[2]/li[1]/a[1]</value>
+      <webElementGuid>8f98319a-ab2b-43bf-b5ee-bd9e7eb37865</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='newcontent']/div[2]/table/tbody/tr[2]/td/ul/li/ul[2]/li/a</value>
+      <webElementGuid>8650d232-8f9f-4b39-986e-d33dfd5be1c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'81st Annual Report')]</value>
+      <webElementGuid>c6d77363-c058-47bb-bd9d-6e1017d7f9cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Downloads'])[2]/following::a[1]</value>
+      <webElementGuid>9ee1a7fa-a381-49e7-abd4-caf9dfb04c90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='81st Annual Report']/parent::*</value>
+      <webElementGuid>c7dcf075-2328-488d-aabd-903beecd2d86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://drive.google.com/open?id=0B-aEhW6UnW8KMXFPTGVsQ3RHWVU')]</value>
+      <webElementGuid>6fb88498-286b-4b28-a370-52d3c6f78b28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/ul[2]/li/a</value>
+      <webElementGuid>d2d57a48-9063-47fa-94c4-86431412c910</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://drive.google.com/open?id=0B-aEhW6UnW8KMXFPTGVsQ3RHWVU' and (text() = '81st Annual Report' or . = '81st Annual Report')]</value>
+      <webElementGuid>279d2169-7dcc-4a07-8be2-5b63127f1844</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

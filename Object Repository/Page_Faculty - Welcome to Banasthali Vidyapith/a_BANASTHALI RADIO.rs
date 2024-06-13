@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_BANASTHALI RADIO</name>
+   <tag></tag>
+   <elementGuidId>e1c76b41-7f06-41c4-8e1c-ed6d551db2e0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='uppermenu']/ul/li[9]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;BANASTHALI RADIO&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d015464a-4c49-440a-92b2-6eb81669734a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/banasthali/wcms/en/home/banasthaliradio/index.html</value>
+      <webElementGuid>9610b1e7-b837-4cfc-bd0c-02abb6f39118</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>BANASTHALI RADIO</value>
+      <webElementGuid>72a4b24a-975e-4b7d-8989-e0b8b1f0d48a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;uppermenu&quot;)/ul[1]/li[@class=&quot;avs_leaf&quot;]/a[1]</value>
+      <webElementGuid>13842193-abfd-43b2-908b-830ae695886e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='uppermenu']/ul/li[9]/a</value>
+      <webElementGuid>17659706-53ff-443b-8918-4455d0398e67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'BANASTHALI RADIO')]</value>
+      <webElementGuid>ee1336e2-bbd0-4141-895e-4ef3fc5307e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sports'])[1]/following::a[1]</value>
+      <webElementGuid>7b255273-c907-483f-adbf-f95fed577dec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Examination'])[1]/following::a[2]</value>
+      <webElementGuid>dca3c571-5728-455d-89c5-bf8a0c2d67b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MOOCs'])[1]/preceding::a[1]</value>
+      <webElementGuid>0dd6c7fb-8505-4811-9bdb-6b76abd92758</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bioscience &amp; Biotechnology'])[1]/preceding::a[3]</value>
+      <webElementGuid>e1743d97-0a7d-476d-b71b-23773add9483</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='BANASTHALI RADIO']/parent::*</value>
+      <webElementGuid>e0042c3d-f0d3-4320-b1f9-fdd80187f44b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/banasthali/wcms/en/home/banasthaliradio/index.html')]</value>
+      <webElementGuid>1f2f2120-e958-4642-ba26-3391db3946c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[9]/a</value>
+      <webElementGuid>8dd38391-2f5b-4c3a-96b3-b3828fd7ce9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/banasthali/wcms/en/home/banasthaliradio/index.html' and (text() = 'BANASTHALI RADIO' or . = 'BANASTHALI RADIO')]</value>
+      <webElementGuid>5e5c3614-688e-4117-aadb-f1505330a880</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

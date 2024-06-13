@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Courses  Schemes</name>
+   <tag></tag>
+   <elementGuidId>2f55a83b-373a-4b57-842c-16e5900b3ac0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='left_lower_nav']/ul/li[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Courses &amp; Schemes&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ac1e2a22-2b86-4745-9696-191267491c9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/banasthali/wcms/en/home/lower-menu/faculties/faculty-of-education/dept-of-phy-edu-n-sports/courses/index.html</value>
+      <webElementGuid>fc74ccc9-5485-4019-9a86-ccf1d912489c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Courses &amp; Schemes</value>
+      <webElementGuid>4fda4ae2-5d09-4f73-bf32-5ab72deead34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;left_lower_nav&quot;)/ul[1]/li[@class=&quot;avs_leaf&quot;]/a[1]</value>
+      <webElementGuid>56ef2439-e5aa-448c-af48-e40c46da0120</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='left_lower_nav']/ul/li[2]/a</value>
+      <webElementGuid>52f55e6b-af6c-415c-a135-0f62848fd1bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Courses &amp; Schemes')]</value>
+      <webElementGuid>6c836f54-0a31-49bd-82c3-f9302481bedb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='About Us'])[1]/following::a[1]</value>
+      <webElementGuid>86e964c0-360f-4123-ac84-f8c7bc6e06cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Department of Physical Education'])[2]/following::a[2]</value>
+      <webElementGuid>51ae374d-0ad8-49bf-af6f-23d84221d1cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Faculty &amp; Staff'])[1]/preceding::a[1]</value>
+      <webElementGuid>746d3801-2210-4d4a-bbd7-bd59c842228a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Departmental Activities'])[1]/preceding::a[2]</value>
+      <webElementGuid>9fa56ca9-1fe5-40d6-8ec5-a2eee40ccf3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Courses &amp; Schemes']/parent::*</value>
+      <webElementGuid>3a4ba691-0639-4795-9cfa-87b02dd5e5b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/banasthali/wcms/en/home/lower-menu/faculties/faculty-of-education/dept-of-phy-edu-n-sports/courses/index.html')]</value>
+      <webElementGuid>f9b38e18-b6fd-41ca-870d-f7241fddaa12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ul/li[2]/a</value>
+      <webElementGuid>b3490959-65de-4c64-abf2-810c1faad569</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/banasthali/wcms/en/home/lower-menu/faculties/faculty-of-education/dept-of-phy-edu-n-sports/courses/index.html' and (text() = 'Courses &amp; Schemes' or . = 'Courses &amp; Schemes')]</value>
+      <webElementGuid>3b79745a-e90d-4377-8d17-2e9bd1bcc737</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

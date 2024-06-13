@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Faculty  Staff</name>
+   <tag></tag>
+   <elementGuidId>560fca8a-4ebb-47ae-8c1f-c594e762f0b9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='school_left_nav']/ul/li[5]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Faculty &amp; Staff&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>43a7bfba-dd01-433e-853d-cf03a94b7f97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/banasthali/wcms/en/home/school-education/staff/index.html</value>
+      <webElementGuid>a1333668-f363-444e-8af6-f748b209fa7e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Faculty &amp; Staff</value>
+      <webElementGuid>f80751ed-a0fb-412e-a4cd-81176ad5f9e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;school_left_nav&quot;)/ul[1]/li[@class=&quot;avs_leaf&quot;]/a[1]</value>
+      <webElementGuid>95e3772c-c530-45c5-99e6-0506c672c20f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='school_left_nav']/ul/li[5]/a</value>
+      <webElementGuid>caa59e03-37f4-429c-83e6-742d4737434f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Faculty &amp; Staff')]</value>
+      <webElementGuid>2ff9ae00-7820-436a-9e1e-825ea4aba39b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Courses &amp; Schemes'])[2]/following::a[1]</value>
+      <webElementGuid>48f196a8-ee26-41a4-bc5d-684f43c331b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Five fold education'])[1]/following::a[1]</value>
+      <webElementGuid>21341a80-3453-46f8-b335-ddf324ced89e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='School Activities'])[1]/preceding::a[1]</value>
+      <webElementGuid>4cf77258-1fe3-4c36-b4d7-de117c26366d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Admissions'])[1]/preceding::a[2]</value>
+      <webElementGuid>ccff4685-184b-4bb2-b261-8c90d2895281</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Faculty &amp; Staff']/parent::*</value>
+      <webElementGuid>62bf6afe-f51d-49ed-af2f-a6a89083a5d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/banasthali/wcms/en/home/school-education/staff/index.html')]</value>
+      <webElementGuid>c5b5a8aa-fec0-44af-a00b-c5ce51dd35ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/a</value>
+      <webElementGuid>67b2c19b-ae32-4d57-85cf-4d54012ebdc9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/banasthali/wcms/en/home/school-education/staff/index.html' and (text() = 'Faculty &amp; Staff' or . = 'Faculty &amp; Staff')]</value>
+      <webElementGuid>f2f1aa83-4b30-41bd-b545-f531a51fa8f2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

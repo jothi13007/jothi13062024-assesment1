@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Doctoral Research</name>
+   <tag></tag>
+   <elementGuidId>3e195462-2da5-4105-a0b8-c4327f70aca8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='deptcontent']/div/ul/li/span/span/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Doctoral Research&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>724d9ce4-4f5b-405f-aa36-17ee9268c3cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>http://www.banasthali.org/banasthali/wcms/en/home/lower-menu/faculties/faculty-of-education/dept-of-phy-edu-n-sports/research/rs.html</value>
+      <webElementGuid>e8a126ff-07d9-4b3d-9f1e-db84ebb68e4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Doctoral Research</value>
+      <webElementGuid>7129fd57-d0b1-40d2-938c-d8c484fb6c2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;deptcontent&quot;)/div[@class=&quot;mid&quot;]/ul[1]/li[1]/span[1]/span[1]/a[1]</value>
+      <webElementGuid>ff9d2091-6fa1-4178-9e8f-2f8167051c40</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='deptcontent']/div/ul/li/span/span/a</value>
+      <webElementGuid>c96abe3c-07ae-4982-9793-cfd8aad46782</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Doctoral Research')]</value>
+      <webElementGuid>fc413fde-33cd-4070-8700-f0ebff6118f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Research'])[3]/following::a[1]</value>
+      <webElementGuid>6b405bb7-7bc3-405c-9b31-dc5f138f6964</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact Us'])[1]/following::a[1]</value>
+      <webElementGuid>480de71f-027c-47a7-ae36-2f4f2773f5bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Workshop &amp; Seminar Attended'])[1]/preceding::a[3]</value>
+      <webElementGuid>ce679dd0-8e40-4c3a-bf66-e0ccf43fb572</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Doctoral Research']/parent::*</value>
+      <webElementGuid>daae52b7-02fa-405c-8a4e-b4f77b8d8d91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[@href='http://www.banasthali.org/banasthali/wcms/en/home/lower-menu/faculties/faculty-of-education/dept-of-phy-edu-n-sports/research/rs.html']</value>
+      <webElementGuid>860b6ce0-968d-4d78-88db-c76082367148</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/a</value>
+      <webElementGuid>560d5dcc-a69a-4ab1-bd83-932a3da15882</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'http://www.banasthali.org/banasthali/wcms/en/home/lower-menu/faculties/faculty-of-education/dept-of-phy-edu-n-sports/research/rs.html' and (text() = 'Doctoral Research' or . = 'Doctoral Research')]</value>
+      <webElementGuid>2178a38a-fc13-4c61-8167-073ed377ffbc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

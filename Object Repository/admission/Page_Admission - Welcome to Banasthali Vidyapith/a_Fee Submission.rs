@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Fee Submission</name>
+   <tag></tag>
+   <elementGuidId>db5bcf65-cc0f-459b-acee-81dd34ac0ae9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='school_left_nav']/ul/li[8]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Fee Submission&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>cdb51b33-163f-4911-9ee8-660e6ff4d7b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/banasthali/wcms/en/home/school-education/fee_submission/index.html</value>
+      <webElementGuid>c4ec4c63-14a0-4d0c-a2d7-89db16a4656a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Fee Submission</value>
+      <webElementGuid>694e9416-5d92-450f-9295-2d3ecd17ec7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;school_left_nav&quot;)/ul[1]/li[@class=&quot;avs_leaf&quot;]/a[1]</value>
+      <webElementGuid>df851007-bab9-4d37-afc9-3a632866cba7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='school_left_nav']/ul/li[8]/a</value>
+      <webElementGuid>cbffdb55-d79b-406f-8d32-d2dc45239424</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Fee Submission')]</value>
+      <webElementGuid>6e3fe589-cbfb-47b8-bba0-0e97bd6ee23d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Admissions'])[2]/following::a[1]</value>
+      <webElementGuid>a2db03cf-d82c-44e0-98f0-11e3b1c239e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='School Activities'])[1]/following::a[1]</value>
+      <webElementGuid>dcc433b6-4d94-4713-a39c-681d0260bd9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact Us'])[1]/preceding::a[1]</value>
+      <webElementGuid>04a501f4-0361-42be-b1ed-ad22f532ffad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Elementary Education: Nursery to class VIII.'])[1]/preceding::a[3]</value>
+      <webElementGuid>222b270a-55b6-4a14-a4d8-e614ac7a60ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Fee Submission']/parent::*</value>
+      <webElementGuid>0ecc60d8-1fea-4c70-97d4-ef17e7282688</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/banasthali/wcms/en/home/school-education/fee_submission/index.html')]</value>
+      <webElementGuid>0d2d6617-f0c3-4126-acc9-ea5580a3909c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[8]/a</value>
+      <webElementGuid>f193ab6c-28f2-44bf-a213-906fc45d3293</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/banasthali/wcms/en/home/school-education/fee_submission/index.html' and (text() = 'Fee Submission' or . = 'Fee Submission')]</value>
+      <webElementGuid>7c419296-2ac8-4c83-b17a-4234d9b6ace1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

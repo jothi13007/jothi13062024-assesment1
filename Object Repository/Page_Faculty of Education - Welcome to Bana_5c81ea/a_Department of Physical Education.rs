@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Department of Physical Education</name>
+   <tag></tag>
+   <elementGuidId>36168ccb-f5a7-4c4d-9b9a-a2fa87c096c0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='facultyEdunav']/ul/li[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Department of Physical Education&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>4891670c-2dca-4b7f-9aca-c8382e4ee815</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/banasthali/wcms/en/home/lower-menu/faculties/faculty-of-education/dept-of-phy-edu-n-sports/index.html</value>
+      <webElementGuid>594fa29f-ef3f-4341-80a6-88b67485ba6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Department of Physical Education</value>
+      <webElementGuid>51610332-f65c-4a2d-8bb4-8f80113adba4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;facultyEdunav&quot;)/ul[1]/li[@class=&quot;avs_node&quot;]/a[1]</value>
+      <webElementGuid>f047e5aa-eaf3-4179-a612-b2121e190d03</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='facultyEdunav']/ul/li[2]/a</value>
+      <webElementGuid>6df30c8d-a071-4db5-887d-2e8fe9587f39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Department of Physical Education')]</value>
+      <webElementGuid>c0c4724b-4030-4af1-bebd-ba40ac79ef71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Department Of Education'])[1]/following::a[1]</value>
+      <webElementGuid>6dd7c389-c7d8-4839-bcb2-59ca84688377</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ABOUT US'])[1]/preceding::a[1]</value>
+      <webElementGuid>6aefa3b7-6ade-4601-a6e4-3f7719c81ef0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='COURSES &amp; SCHEMES'])[1]/preceding::a[2]</value>
+      <webElementGuid>27ca00b0-1927-408f-8a72-82841a39f867</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Department of Physical Education']/parent::*</value>
+      <webElementGuid>e7ee71d6-8696-4e5f-8df2-0ee7f6d6b125</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/banasthali/wcms/en/home/lower-menu/faculties/faculty-of-education/dept-of-phy-edu-n-sports/index.html')]</value>
+      <webElementGuid>b0d2413b-5ad4-4179-9193-a85df407b73c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/ul/li[2]/a</value>
+      <webElementGuid>3e455e44-acd3-4de3-ba9f-3fac6684f37d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/banasthali/wcms/en/home/lower-menu/faculties/faculty-of-education/dept-of-phy-edu-n-sports/index.html' and (text() = 'Department of Physical Education' or . = 'Department of Physical Education')]</value>
+      <webElementGuid>eb4d3816-ee69-486d-8943-aabd30d1f9d9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

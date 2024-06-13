@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_School Admission</name>
+   <tag></tag>
+   <elementGuidId>49f1e5b5-f3e8-408f-9792-846e28e43a57</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='innerTextContent']/div/p/span/strong/span[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span:nth-of-type(2) > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;School Admission&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>937c329a-e18b-4ab4-9d95-be34a4d8e1de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>http://www.banasthali.org/banasthali/wcms/en/home/school-education/admissions/index.html</value>
+      <webElementGuid>7f7959a9-d682-4e5d-923a-e54c2597e12b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>School Admission</value>
+      <webElementGuid>9548d4b7-8245-4b86-a812-a8d845488562</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;innerTextContent&quot;)/div[1]/p[1]/span[1]/strong[1]/span[2]/a[1]</value>
+      <webElementGuid>25d03836-1ce3-4cf9-b1a2-a7a776191f19</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='innerTextContent']/div/p/span/strong/span[2]/a</value>
+      <webElementGuid>abb01a27-05c4-4808-86db-de8aad33479b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'School Admission')]</value>
+      <webElementGuid>6e9e05db-aa5e-489d-8f8c-e306a2dc0771</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IMPORTANT DATES'])[1]/following::a[1]</value>
+      <webElementGuid>c6bbdae7-9ee2-4aed-b461-8957bf3be4b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Admission is open to all women irrespective of their race, religion, caste, color or domicile.'])[1]/following::a[1]</value>
+      <webElementGuid>a9d74469-75eb-4446-87a1-579fa91b26b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Last date of submission of Admission Form :'])[1]/preceding::a[1]</value>
+      <webElementGuid>f09c02f1-10ed-4f6f-b969-6124df23ce68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='For Regular Applicants :'])[1]/preceding::a[1]</value>
+      <webElementGuid>4ce6444e-da4f-4f54-97f4-4114334f6b0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='School Admission']/parent::*</value>
+      <webElementGuid>ebabbb41-5031-4170-a425-08959e9cccdc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[@href='http://www.banasthali.org/banasthali/wcms/en/home/school-education/admissions/index.html']</value>
+      <webElementGuid>2d78fc10-53ee-476d-a709-5c942ef61b0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]/a</value>
+      <webElementGuid>49fc7dca-295a-40dc-bd6c-675fd8e07805</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'http://www.banasthali.org/banasthali/wcms/en/home/school-education/admissions/index.html' and (text() = 'School Admission' or . = 'School Admission')]</value>
+      <webElementGuid>a9ae1fdc-d010-408c-827e-3a8ea4f66ea4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

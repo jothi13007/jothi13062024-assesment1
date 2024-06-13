@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_State Bank of India</name>
+   <tag></tag>
+   <elementGuidId>cd114176-1e0b-4d8f-8378-b70876d81618</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='shado_right']/table/tbody/tr[2]/td[2]/div/table/tbody/tr/td/div/ul/li/span/strong/span/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;State Bank of India&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>249e8808-a2b3-4aa5-b570-2fd82ae7c554</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>http://www.banasthali.org/banasthali/wcms/en/home/school-education/fee_submission/fee_deposit_sbibank.html</value>
+      <webElementGuid>cf13a750-24e4-4d19-a1f4-b3459f923fde</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>State Bank of India</value>
+      <webElementGuid>da6081ba-8cef-4211-a86c-fa2d1b45fd78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;shado_right&quot;)/table[1]/tbody[1]/tr[2]/td[2]/div[@class=&quot;middls_txt_wht_rght&quot;]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/ul[1]/li[1]/span[1]/strong[1]/span[1]/a[1]</value>
+      <webElementGuid>08a275fc-9b1b-4e37-9111-cd6e6681f215</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='shado_right']/table/tbody/tr[2]/td[2]/div/table/tbody/tr/td/div/ul/li/span/strong/span/a</value>
+      <webElementGuid>e60f6231-1b2a-40ab-9fe5-9a9b31a7bf37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'State Bank of India')]</value>
+      <webElementGuid>32925e4b-ed9b-4eab-836d-9498d9257cf5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact Us'])[1]/following::a[2]</value>
+      <webElementGuid>0111b528-1563-4471-900a-39658c6ba13c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fee Submission'])[2]/following::a[3]</value>
+      <webElementGuid>39a68e9d-a34d-4e0f-956a-4c208191e13c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='State Bank of India']/parent::*</value>
+      <webElementGuid>7f0add13-ae98-416a-8010-ad553e3169fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[@href='http://www.banasthali.org/banasthali/wcms/en/home/school-education/fee_submission/fee_deposit_sbibank.html']</value>
+      <webElementGuid>b8586f95-a07d-4ef5-bcb7-44fcdcc21e7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/a</value>
+      <webElementGuid>8ec8f026-7aa7-479e-8b4c-6d955e62f415</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'http://www.banasthali.org/banasthali/wcms/en/home/school-education/fee_submission/fee_deposit_sbibank.html' and (text() = 'State Bank of India' or . = 'State Bank of India')]</value>
+      <webElementGuid>333fa39f-4b5b-4eb9-b0c1-8650fd0bbcd0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

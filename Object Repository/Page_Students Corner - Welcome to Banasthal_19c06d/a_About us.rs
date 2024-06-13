@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_About us</name>
+   <tag></tag>
+   <elementGuidId>70c6e9a1-e78d-466b-b76e-6be076f6a028</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.avs_leaf > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='school_left_nav']/ul/li/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;About us&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ccda3728-d832-45ff-9ae4-7eae5159bee5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/banasthali/wcms/en/home/school-education/about_us/index.html</value>
+      <webElementGuid>8aea1090-d479-45b9-a905-e1b44ee94fd2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>About us</value>
+      <webElementGuid>9b3812e5-d907-42d2-8aef-33c22ca00844</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;school_left_nav&quot;)/ul[1]/li[@class=&quot;avs_leaf&quot;]/a[1]</value>
+      <webElementGuid>ae444b3b-befe-4957-8fcc-c99adfa77d06</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='school_left_nav']/ul/li/a</value>
+      <webElementGuid>db8dbdab-abc0-45b4-92bb-5945a52f13bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'About us')]</value>
+      <webElementGuid>1412fbc3-7291-4a78-a7cb-627971cb0cae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='student-corner'])[1]/following::a[1]</value>
+      <webElementGuid>af875d29-0d05-4de6-a757-cac0942043bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Features'])[1]/preceding::a[1]</value>
+      <webElementGuid>f811bae2-0eb2-4dc3-873f-7d755976ac7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Five fold education'])[1]/preceding::a[2]</value>
+      <webElementGuid>87bf781e-c8fe-483c-8d82-c8d5386b7c2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='About us']/parent::*</value>
+      <webElementGuid>a3c37a23-0baa-479d-ac35-9799ccfb0000</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/banasthali/wcms/en/home/school-education/about_us/index.html')]</value>
+      <webElementGuid>8916b1b9-e699-4ab9-9856-a275ed2ace1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/ul/li/a</value>
+      <webElementGuid>f59ea24d-3106-4988-85e0-873980ce577c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/banasthali/wcms/en/home/school-education/about_us/index.html' and (text() = 'About us' or . = 'About us')]</value>
+      <webElementGuid>5fd1cda7-8cec-4001-8216-eaf6a46a0bbb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

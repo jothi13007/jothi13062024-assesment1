@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>font_- Mahatma Gandhi (1946)</name>
+   <tag></tag>
+   <elementGuidId>f071551c-9abf-4ca2-a4c1-eb5c20466cda</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='newwrapper']/table/tbody/tr/td[2]/table/tbody/tr/td/table/tbody/tr/td[2]/table/tbody/tr/td[2]/font</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>font.align</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;- Mahatma Gandhi (1946)&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>font</value>
+      <webElementGuid>074f43da-1fb7-4ec4-81e5-e791e8fb4d39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>color</name>
+      <type>Main</type>
+      <value>red</value>
+      <webElementGuid>88e19032-2100-4d9f-b14a-9b2aa66a2b19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>align</value>
+      <webElementGuid>f4b9df7e-afc7-4771-bff7-d3e1cbb6f43e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>- Mahatma Gandhi (1946) </value>
+      <webElementGuid>e7c42a6d-5c7a-4463-9c72-a6f5daedbe3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;newwrapper&quot;)/table[1]/tbody[1]/tr[1]/td[2]/table[1]/tbody[1]/tr[1]/td[1]/table[1]/tbody[1]/tr[1]/td[@class=&quot;cyan_bg&quot;]/table[1]/tbody[1]/tr[1]/td[@class=&quot;gandhi_words&quot;]/font[@class=&quot;align&quot;]</value>
+      <webElementGuid>bfb51d59-7f61-428f-bb9f-31911cc88985</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='newwrapper']/table/tbody/tr/td[2]/table/tbody/tr/td/table/tbody/tr/td[2]/table/tbody/tr/td[2]/font</value>
+      <webElementGuid>4ec72420-5604-48d8-b4e7-ceac5f74e15a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ONLINE PAYMENT'])[1]/following::font[1]</value>
+      <webElementGuid>d78dc03a-868c-4ea0-9206-5fc3c1cc2421</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NEWS, EVENTS &amp; ANNOUNCEMENTS'])[1]/following::font[1]</value>
+      <webElementGuid>494ce00a-6751-4057-b7f1-debd24a58877</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-Pandit Nehru (1945)'])[1]/preceding::font[1]</value>
+      <webElementGuid>77d9100f-3785-4b44-a00a-62ef0a8ffd13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='- Mahatma Gandhi (1946)']/parent::*</value>
+      <webElementGuid>d2b06c5e-fe6a-468c-93c0-7438c055156f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//font</value>
+      <webElementGuid>bbd1c3a4-9b3a-452e-ad95-7a4560444820</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//font[(text() = '- Mahatma Gandhi (1946) ' or . = '- Mahatma Gandhi (1946) ')]</value>
+      <webElementGuid>84a5e23e-a348-4353-b072-a5057ee7ef6b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Criteria 1 Curriculum Aspect</name>
+   <tag></tag>
+   <elementGuidId>3eca12e5-84d5-471a-b918-8eb2b72a313d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a[title=&quot;Criteria 1&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='innerTextContent']/div/table[2]/tbody/tr/td/h3[2]/span/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Criteria 1: Curriculum Aspect&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>4afa3930-35e9-4582-901f-8d2297f83f30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>http://117.250.24.108/banasthali/C1.htm</value>
+      <webElementGuid>27b1ec56-bdb2-4c2a-a716-f97dd98acb3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>4722775e-9a55-4639-bcfb-af44df6706b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Criteria 1</value>
+      <webElementGuid>fdcc86c6-cadb-4f81-9f0b-673f1d836dd1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Criteria 1: Curriculum Aspect</value>
+      <webElementGuid>f58dea12-7530-4f57-b26a-6aeb78e86b01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;innerTextContent&quot;)/div[1]/table[2]/tbody[1]/tr[1]/td[1]/h3[2]/span[1]/a[1]</value>
+      <webElementGuid>b0cb2e0e-746a-4458-b7df-9644998058d9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='innerTextContent']/div/table[2]/tbody/tr/td/h3[2]/span/a</value>
+      <webElementGuid>4c2ce7bd-6398-45d1-8d76-7590fabb40a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Criteria 1: Curriculum Aspect')]</value>
+      <webElementGuid>13916b7b-6269-43fa-bef8-205261eaa6db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Supporting Documents for DVV'])[1]/following::a[1]</value>
+      <webElementGuid>d42349be-6391-48cd-8a03-e0b02e60d3de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SSR 2019'])[1]/following::a[1]</value>
+      <webElementGuid>8f0618e5-a68c-4ca2-be59-5368ca100359</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Criteria 2: Teaching-learning and Evaluation'])[1]/preceding::a[1]</value>
+      <webElementGuid>dce4093c-bc8a-484f-95ac-5e906d9b2726</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Criteria 3: Research, Innovations and Extension'])[1]/preceding::a[2]</value>
+      <webElementGuid>ca06bf98-e00c-47f0-bc57-35c338898842</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Criteria 1: Curriculum Aspect']/parent::*</value>
+      <webElementGuid>e1c4afe3-75ef-496c-a6b6-feba31289db6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[@href='http://117.250.24.108/banasthali/C1.htm']</value>
+      <webElementGuid>0976c441-5318-4dd1-8aae-7116e8bb663e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/a</value>
+      <webElementGuid>86784839-9f82-4b94-99e5-bcfa6813950a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'http://117.250.24.108/banasthali/C1.htm' and @title = 'Criteria 1' and (text() = 'Criteria 1: Curriculum Aspect' or . = 'Criteria 1: Curriculum Aspect')]</value>
+      <webElementGuid>406e0e14-5c6d-4c1d-9b9f-1025077a55cf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
